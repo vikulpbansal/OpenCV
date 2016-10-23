@@ -1,5 +1,7 @@
 # OpenCV
 
+#Taken help from this link: http://r3dux.org/2010/11/how-to-perform-real-time-opencv-edge-detection-o-a-webcam-stream/
+
 ###CannyEdgeDetection.cpp would perform canny edge detection during live video streaming using a webcam.
 ###One has to change the parameter of cvCaptureFromCAM according to the webcam one is using.
 ##To compile:
